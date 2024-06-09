@@ -1,4 +1,4 @@
-﻿using DesafiodotNetVS;
+using DesafiodotNetVS;
 
 //Idade.Main(args);
 
@@ -12,4 +12,8 @@
 
 //DobroOuMaior.Main(args);
 
-Desconto.Main(args);
+//Desconto.Main(args);
+
+//PossitivoNegativo.Main(args);
+
+IMC.Main(args);
